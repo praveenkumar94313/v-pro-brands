@@ -799,8 +799,8 @@ function ContactSection() {
           >
             {[
               { icon: Mail, label: "Email", value: "hello@vprobrands.com" },
-              { icon: Phone, label: "Phone", value: "+91 98765 43210" },
-              { icon: MapPin, label: "Location", value: "Mumbai, Maharashtra, India" },
+              { icon: Phone, label: "Phone", value: "+91 8218387053" },
+              { icon: MapPin, label: "Location", value: "Delhi, India" },
             ].map((item) => (
               <div key={item.label} className="flex items-start gap-4">
                 <div
